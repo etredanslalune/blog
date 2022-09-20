@@ -59,12 +59,12 @@ footer-text: Copyright (c) 2019 lemon
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
-disqus: secretcup
+disqus: #shortname
 
 # Gitalk
 gitalk:
-  clientID: 
-  clientSecret: 
+  clientID: c0bdc63cc876da2be791
+  clientSecret: 786577f968a08db135021ecf61e8d94edb83527b
   repo: 
   owner:
   proxy:
