@@ -48,7 +48,7 @@ footer-links:
   instagram:
   linkedin:
   pinterest:
-  rss: test # just type anything here for a working RSS icon
+  rss: rrs # just type anything here for a working RSS icon
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   tumblr: # https://<username>.tumblr.com
   #twitter: frommidworld
@@ -65,8 +65,9 @@ disqus: #shortname
 gitalk:
   clientID: c0bdc63cc876da2be791
   clientSecret: 786577f968a08db135021ecf61e8d94edb83527b
-  repo: etredanslalune/blog
+  repo: etredanslalune.github.io
   owner: etredanslalune
+  admin: ['etredanslalune']
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 #google_analytics: 
