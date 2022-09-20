@@ -63,10 +63,10 @@ disqus: #shortname
 
 # Gitalk
 gitalk:
-  clientID: c0bdc63cc876da2be791
-  clientSecret: 786577f968a08db135021ecf61e8d94edb83527b
-  repo: etredanslalune.github.io
-  owner: etredanslalune
+  clientID: bd65d5c0df878155b7fa
+  clientSecret: d0220762c05c2d6b6f6152a0f0e4b6b090de9729
+  repo: lemonchann.github.io
+  owner: lemonchann
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 #google_analytics: 
